@@ -1,0 +1,45 @@
+Country,Continent,Year,TotalPopulation,CO2_Emission,TotalEnergy_Consumption
+Belgium,Europe,1990,9967379,106.51,48
+Czech Republic,Europe,1990,10333355,147.4,50
+France,Europe,1990,58235697,365.41,225
+Germany,Europe,1990,79433029,952.76,351
+Italy,Europe,1990,56719240,397.79,147
+Netherlands,Europe,1990,14951510,163.32,67
+Poland,Europe,1990,38110782,355.72,103
+Portugal,Europe,1990,9983218,39.79,17
+Romania,Europe,1990,23201835,162.99,62
+Spain,Europe,1990,38867322,205.49,90
+Sweden,Europe,1990,8558835,52.55,47
+United Kingdom,Europe,1990,57247586,556.16,206
+Norway,Europe,1990,4241473,27.88,21
+Turkey,Asia,1990,53921760,132.53,51
+Kazakhstan,Asia,1990,16348000,236.28,73
+Russia,Asia,1990,147969407,2188.84,879
+Ukraine,Europe,1990,51891400,690.16,252
+Uzbekistan,Asia,1990,20510000,116.34,46
+Canada,North America,1990,27691138,429.73,211
+United States,North America,1990,249623000,4866.01,1910
+Argentina,South America,1990,32618651,101.13,46
+Brazil,South America,1990,149003223,193.76,141
+Chile,South America,1990,13274623,30.95,14
+Colombia,South America,1990,33102569,46.08,24
+Mexico,North America,1990,83943132,264.11,124
+Venezuela,South America,1990,19632665,93.58,40
+China,Asia,1990,1135185000,2256.67,874
+India,Asia,1990,873277798,522.75,306
+Indonesia,Asia,1990,181413402,147.8,99
+Japan,Asia,1990,123537000,1040.21,440
+Malaysia,Asia,1990,18029824,50.74,21
+South Korea,Asia,1990,20293054,243.5,94
+Taiwan,Asia,1990,20478520,115.16,48
+Thailand,Asia,1990,56558186,80.92,42
+Australia,Oceania,1990,17065100,261.38,86
+New Zealand,Oceania,1990,3329800,21.62,14
+Algeria,Africa,1990,25758869,52.97,22
+Egypt,Africa,1990,56134475,78.4,32
+Nigeria,Africa,1990,95212450,28.32,66
+South Africa,Africa,1990,36800507,251.94,90
+Iran,Asia,1990,56366217,181.23,69
+Kuwait,Asia,1990,2095344,28.07,9
+Saudi Arabia,Asia,1990,16233785,155.69,58
+United Arab Emirates,Asia,1990,1828432,52.15,20
