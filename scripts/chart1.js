@@ -4,7 +4,7 @@ var margin = {top: 50, right: 20, bottom: 50, left: 60};
 var width = 600;
 var height = 400;
 
-var svg = d3.select("#svg1")
+var svg = d3.select("svg")
     .attr("width", width + 2* margin)
     .attr("height", height + 2*margin)
   .append("g")
