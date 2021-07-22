@@ -1,3 +1,5 @@
+chart1();
+
 charts.chart1 = function() {
 
 var margin = {top: 50, right: 20, bottom: 50, left: 60};
