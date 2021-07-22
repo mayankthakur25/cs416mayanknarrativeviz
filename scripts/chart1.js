@@ -1,6 +1,4 @@
-chart1();
-
-charts.chart1 = function() {
+<script>
 
 var margin = {top: 50, right: 20, bottom: 50, left: 60};
 var width = 600;
@@ -42,4 +40,4 @@ svg.append('g')
 
 })
 
-}
+</script>
