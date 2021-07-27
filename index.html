@@ -1,33 +1,35 @@
 <!DOCTYPE html>
-    <html>
-      <head>
-        <title>The d3 test</title>
-<style>
-.chart {
 
-}
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Energy Consumption and CO2 Emission analysis</title>
+	<meta name="author" content="Mayank Thakur" />
+	<meta name="description" content="CS 416 Data Visualization Project" />
+	<meta name="Resource-type" content="Document" />
 
-.main text {
-    font: 10px sans-serif;	
-}
+	<link rel="stylesheet" type="text/css" href="styles/fullpage.css" />
+	<link rel="stylesheet" type="text/css" href="styles/style.css" />
+</head>
+<body>
 
-.axis line, .axis path {
-    shape-rendering: crispEdges;
-    stroke: black;
-    fill: none;
-}
+<script type="text/javascript" src="scripts/fullpage.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script type="text/javascript">
+	var myFullpage = new fullpage('#fullpage', {
+		sectionsColor: ['#add8e6']
+	});
+</script>
 
-circle {
-    fill: steelblue;
-}
+<div id="fullpage">
+	<div class="section active" id="section0">
+	    <div class="slide active ">
+		<h1>CS 416 Data Visualization Project</h1>
+		<h2>Energy Consumption and CO2 Emission analysis</h2>
+		<h3>Created by Mayank Thakur</h3> 
+		</div>
+	    <div class="slide"><h1>Begin the <a href="chart1990.html">Journey</a></h1></div>
+	</div>
+</div>
 
-</style>
-        <script type="text/javascript" src="https://mbostock.github.com/d3/d3.v2.js"></script>
-      </head>
-      <body>
-        <div class='content'>
-          <!-- /the chart goes here -->
-        </div>
-        <script type="text/javascript" src="scatterchart.js"></script>
-      </body>
-    </html>
+</body>
+</html>
