@@ -7,3 +7,12 @@ h1, h2, h3, h4 {
   text-align: center;
   line-height: 1cm;
 }
+
+p {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  color: #444;
+  text-align: center;
+  line-height: 1cm;
+}
